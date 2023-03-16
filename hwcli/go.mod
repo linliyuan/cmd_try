@@ -1,3 +1,3 @@
-module github.com/linliyuan/cmd_try/hwcli
+module github.com/linliyuan/cmdTry/hwcli
 
 go 1.18
