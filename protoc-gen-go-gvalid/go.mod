@@ -1,0 +1,1 @@
+module github.com/linliyuan/cmdTry/protoc-gen-go-gvalid
