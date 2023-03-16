@@ -1,3 +1,3 @@
-module github.com/linliyuan/cmdTry/hwcli
+module github.com/linliyuan/cmd_try/protoc-gen-go-gvalid
 
 go 1.18
